@@ -17,4 +17,7 @@ We then were able to perform various analytical methods on this dataset such as 
 
 
 Zillow Research Data: https://www.zillow.com/research/data/
+
+
+
 Boston Police Department Crime Datasets: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
