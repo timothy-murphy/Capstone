@@ -14,3 +14,7 @@ Using a python script we were able to get the total amounts of 4 types of crimes
 
 
 We then were able to perform various analytical methods on this dataset such as creating several machine learning models and statistical methods. 
+
+
+Zillow Research Data: https://www.zillow.com/research/data/
+Boston Police Department Crime Datasets: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
